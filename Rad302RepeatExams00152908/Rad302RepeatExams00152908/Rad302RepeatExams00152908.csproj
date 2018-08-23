@@ -178,6 +178,10 @@
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
+    <Compile Include="ViewModels\ActedIn.cs" />
+    <Compile Include="ViewModels\Actor.cs" />
+    <Compile Include="ViewModels\Genre.cs" />
+    <Compile Include="ViewModels\Movie.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
